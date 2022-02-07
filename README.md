@@ -1,1 +1,3 @@
 # Tweet-Emotion-Recognition-with-TensorFlow
+
+Created a recurrent neural network and trained it on a tweet emotion dataset to learn to recognize emotions in tweets. The dataset has thousands of tweets each classified in one of 6 emotions. This is a multi class classification problem in the natural language processing domain.  TensorFlow was used as our machine learning framework.
